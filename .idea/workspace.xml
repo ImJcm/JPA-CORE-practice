@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c29b04-b9eb-4bb4-997e-c385a3f71119" name="Changes" comment="Entity Persistency">
-      <change afterPath="$PROJECT_DIR$/src/test/java/PersistenceTest.java" afterDir="false" />
+    <list default="true" id="06c29b04-b9eb-4bb4-997e-c385a3f71119" name="Changes" comment="Persistency Context function">
+      <change afterPath="$PROJECT_DIR$/src/test/java/EntityStateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686737120988</updated>
-      <workItem from="1686737122789" duration="6441000" />
+      <workItem from="1686737122789" duration="8670000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1686741655893</created>
@@ -169,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686741727659</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Persistency Context function">
+      <created>1686746826622</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686746826622</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +197,8 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="Entity 이해하기" />
     <MESSAGE value="Entity Persistency" />
-    <option name="LAST_COMMIT_MESSAGE" value="Entity Persistency" />
+    <MESSAGE value="Persistency Context function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Persistency Context function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
